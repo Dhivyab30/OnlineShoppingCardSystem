@@ -1,7 +1,5 @@
 # OnlineShoppingCardSystem
-
-Introduction:
---------------
+---------------------------
 
 The Online Shopping Cart System is a mini-project implemented in Java using the Collection Framework. It simulates the basic functionalities of an e-commerce shopping application where users can browse products, add/remove items to/from a cart, checkout, and view their order history.
 The project is menu-driven and runs on the console. It demonstrates real-world use cases of Java Collections (Arraylist, HashMap, Linkedlist) in a modular, object-oriented design.
