@@ -1,0 +1,80 @@
+=== Online Shopping Cart System ===
+1. Show Products
+2. Add to Cart
+3. View Cart
+4. Checkout
+5. View Order History
+6. Exit
+Enter choice: 1
+
+Available Products:
+1. Laptop - ₹55000.0
+2. Smartphone - ₹20000.0
+3. Headphones - ₹1500.0
+4. Smartwatch - ₹3000.0
+5. Tablet - ₹18000.0
+
+=== Online Shopping Cart System ===
+1. Show Products
+2. Add to Cart
+3. View Cart
+4. Checkout
+5. View Order History
+6. Exit
+Enter choice: 2
+
+Available Products:
+1. Laptop - ₹55000.0
+2. Smartphone - ₹20000.0
+3. Headphones - ₹1500.0
+4. Smartwatch - ₹3000.0
+5. Tablet - ₹18000.0
+Enter Product ID: 4
+Enter Quantity: 1
+1 x Smartwatch added to cart.
+
+=== Online Shopping Cart System ===
+1. Show Products
+2. Add to Cart
+3. View Cart
+4. Checkout
+5. View Order History
+6. Exit
+Enter choice: 3
+
+🛒 Cart Items:
+Smartwatch x 1 = ₹3000.0
+👉 Total Amount: ₹3000.0
+
+=== Online Shopping Cart System ===
+1. Show Products
+2. Add to Cart
+3. View Cart
+4. Checkout
+5. View Order History
+6. Exit
+Enter choice: 4
+
+✅ Checkout Successful! Total = ₹3000.0
+
+=== Online Shopping Cart System ===
+1. Show Products
+2. Add to Cart
+3. View Cart
+4. Checkout
+5. View Order History
+6. Exit
+Enter choice: 5
+
+📜 Order History:
+Order: Smartwatch x 1, Total = ₹3000.0
+
+=== Online Shopping Cart System ===
+1. Show Products
+2. Add to Cart
+3. View Cart
+4. Checkout
+5. View Order History
+6. Exit
+Enter choice: 6
+👋 Thank you for shopping!
