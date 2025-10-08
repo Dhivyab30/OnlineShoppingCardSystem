@@ -30,11 +30,13 @@ Before running this project, you need:
 
 Requirement Version / Tools:
 -----------------------------
-Tool / Component	      Recommended Version
+Tool / Component	                     Recommended Version
 
-Java JDK	               1.8 or above
-IDE	                     IntelliJ IDEA / Eclipse
-Build Tool (optional)	   Maven or Gradle
+Java JDK	                             1.8 or above
+
+IDE	                                   IntelliJ IDEA / Eclipse
+
+Build Tool (optional)	                 Maven or Gradle
 
 
 Installation Steps:
