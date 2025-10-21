@@ -3,7 +3,7 @@
 The Online Shopping Cart System is a mini-project implemented in Java using the Collection Framework. It simulates the basic functionalities of an e-commerce shopping application where users can browse products, add/remove items to/from a cart, checkout, and view their order history.
 The project is menu-driven and runs on the console. It demonstrates real-world use cases of Java Collections (Arraylist, HashMap, Linkedlist) in a modular, object-oriented design
 
-Getting Started:
+🚀 Getting Started:
 -----------------
 This project is a console-based Online Shopping Cart System developed in Java. It allows users to:
 
@@ -18,7 +18,7 @@ This project is a console-based Online Shopping Cart System developed in Java. I
 ✓View past orders.
 
 
-Prerequisites:
+🧱 Prerequisites:
 ---------------
 Before running this project, you need:
 
@@ -38,8 +38,7 @@ IDE	                                   IntelliJ IDEA / Eclipse
 
 Build Tool (optional)	                 Maven or Gradle
 
-
-Installation Steps:
+⚙️ Installation Steps:
 -------------------
 1. Clone / Download Project
 Download the .java files into a folder, e.g., ShoppingCartSystem.
@@ -60,7 +59,7 @@ javac Java/ShoppingCartSystem.java
 java Java.ShoppingCartSystem
 
 
-Usage / Running the Application:
+🧑‍💻 Usage / Running the Application:
 ---------------------------------
 After running, the console will display a menu:
 
@@ -120,7 +119,7 @@ Total Amount = ₹113000
 Order: Laptop x 2, Smartwatch x 1, Total = ₹113000
 
 
-Running Tests:
+🧪 Running Tests:
 ---------------
 Currently, this is a console-based project without automated unit tests.
 To test manually:
@@ -132,7 +131,7 @@ To test manually:
 ✓ Checkout with empty cart to ensure proper messages display.
 
 
-Deployment:
+🌐 Deployment:
 ------------
 This is a desktop/console Java application. No server deployment is required.
 
@@ -150,7 +149,7 @@ javac Java/ShoppingCartSystem.java
 java Java.ShoppingCartSystem
 
 
-Build With:
+🛠️ Build With:
 ------------ 
 
 ✓ Java – Programming language.
@@ -163,7 +162,7 @@ Build With:
 
 ✓ Console-based I/O – System.out.println.
 
-Conclusion:
+🏁 Conclusion:
 -----------
 
 The Online Shopping Cart System is a simple Java project that uses the Collection Framework to manage products, cart items, and order history. It shows how Arraylist, HashMap, and linkedlist can be used effectively in real applications. The project is easy to use, menu-driven, and demonstrates the basic idea of an online shopping system in a clear and practical way.
